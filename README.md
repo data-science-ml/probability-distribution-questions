@@ -35,3 +35,10 @@
 - P(a house will have less that 275 sqft)
 - What are the first 4 moments of the distribution?
 - Plot the distribution.
+
+### 5
+
+*The average male height is 70 inches with variance of 5. You go to a random street corner and have a 6-sided die and a biasd coin in your hand, with p(t) = 0.6.*
+
+- P(you will select a guy < 52" tall and then roll either a 3 or 4 and then get exactly 7 heads after flipping a coin 10 times)
+- Perform a monte carlo simulation on the distribtions, say 10_000 times. Does the simulated answer equal the calculated answer.
