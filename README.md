@@ -17,3 +17,12 @@
 - P(turning on >= 3 times) = ?
 - What are the first 4 moments of the distribution?
 - Plot the distribution.
+
+### 3
+
+*A factory worker, on accident, breaks 3 widgets per hour*
+- P(1 widget will be broken per hour) = ?
+- P(between 4 and 7, inclusive, will be broken per hour) = ?
+- P(less than 6 will be broken per hour) = ?
+- What are the first 4 moments of the distribution?
+- Plot the distribution.
