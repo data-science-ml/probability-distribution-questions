@@ -33,3 +33,5 @@
 - P(a house will contain 830 +/- 25 sqft)
 - P(a house will have more than 3000 sqft)
 - P(a house will have less that 275 sqft)
+- What are the first 4 moments of the distribution?
+- Plot the distribution.
